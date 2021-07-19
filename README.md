@@ -20,4 +20,4 @@ What things are needed to install the software and how to install them. For now,
 
 ## Authors
 
-* **Nicky Mashrani** - *Initial work* - [YourWebsite](https://example.com/)
+* **Nicky K Mashrani** - *Initial work* - [YourWebsite](https://example.com/)
